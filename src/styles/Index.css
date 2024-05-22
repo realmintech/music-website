@@ -1,0 +1,114 @@
+.sidebar-sticky a {
+  text-decoration: none;
+  color: #000;
+  margin-left: 7px;
+}
+
+.sidebar-sticky h6 {
+  margin-top: 3rem;
+}
+
+.sidebar-sticky svg {
+  color: rgba(172, 57, 238, 0.7259278711484594);
+}
+
+.home > div {
+  margin: 10px 0;
+}
+
+.my-music > div {
+  margin: 10px 0;
+}
+
+.play-list > div {
+  margin: 10px 0;
+}
+
+.play-list {
+  padding-bottom: 5rem;
+}
+
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+
+.icon-span svg {
+   padding: 0 1px;
+   margin: 0 10px;
+}
+
+.search-container {
+  position: relative;
+  display: inline-block;
+}
+
+.search-input {
+  padding: 0 10px; 
+  border: 1px solid rgb(175, 168, 168);
+  border-radius: 12px;
+  background-color: white;
+  color: rgb(78, 75, 75);
+  width: 200px;
+}
+
+.search-container svg {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: rgb(78, 75, 75); 
+}
+
+
+.home > div:hover {
+  background: rgba(172, 57, 238, 0.7259278711484594);
+  background: linear-gradient(
+    90deg,
+    rgba(172, 57, 238, 0.7259278711484594) 41%,
+    rgba(228, 227, 251, 0.9220063025210083) 100%
+  );
+  padding: 5px;
+  border-radius: 12px;
+  svg {
+    color: white;
+  }
+  a {
+    color: white;
+  }
+}
+
+.my-music > div:hover {
+  background: rgba(172, 57, 238, 0.7259278711484594);
+  background: linear-gradient(
+    90deg,
+    rgba(172, 57, 238, 0.7259278711484594) 41%,
+    rgba(228, 227, 251, 0.9220063025210083) 100%
+  );
+  padding: 5px;
+  border-radius: 12px;
+  svg {
+    color: white;
+  }
+  a {
+    color: white;
+  }
+}
+
+.play-list > div:hover {
+  background: rgba(172, 57, 238, 0.7259278711484594);
+  background: linear-gradient(
+    90deg,
+    rgba(172, 57, 238, 0.7259278711484594) 41%,
+    rgba(228, 227, 251, 0.9220063025210083) 100%
+  );
+  padding: 5px;
+  border-radius: 12px;
+  svg {
+    color: white;
+  }
+  a {
+    color: white;
+  }
+}

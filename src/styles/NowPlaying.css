@@ -1,0 +1,61 @@
+.span-it {
+  color: gray;
+}
+
+.span-div {
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px 12px;
+}
+
+.now-playing {
+    margin: 20px 0;
+    padding-bottom: 40px ;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.title {
+    margin: 20px 0;
+}
+.img1 {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.detail-img {
+  text-align: center;
+}
+
+.input-reset input {
+    width:95%;
+}
+
+.input-reset {
+   margin-left: 20px;
+}
+
+.music-time {
+    margin: 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.pause-icon {
+    top: 0;
+    border: 6px solid rgba(172, 57, 238, 0.938);
+    border-radius: 50%;
+    padding: 8px;
+}
+
+.pause-icon svg {
+    text-align: center;
+}

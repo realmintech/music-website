@@ -1,0 +1,46 @@
+.mostPlayedImg {
+    width: 55px;
+    height: 55px;
+    border-radius: 12px;
+}
+
+.most-played-div {
+    margin-bottom: 7px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 12px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.most-played-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.word-and-icon {
+    margin-top: 30px;
+    font-size: small;
+    color: gray;
+}
+
+.most-played-id {
+    margin-top: 15px;
+}
+
+.most-played-artist {
+    margin-top: 15px;
+}
+
+.most-played-writer {
+    margin-top: 15px;
+}
+
+.most-played-duration {
+    margin-top: 15px;
+}
+
+.most-played-div svg {
+    margin-top: 19px;
+}

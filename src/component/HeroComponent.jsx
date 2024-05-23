@@ -3,7 +3,6 @@ import '../styles/HeroComponent.css';
 import Img1 from '../assest/first.jpg';
 import Img2 from '../assest/second.jpg';
 import Img3 from '../assest/third.jpg';
-// import Img4 from '../assest/music.png';
 import Img5 from '../assest/fourth.jpg';
 import { FaArrowDown } from 'react-icons/fa';
 

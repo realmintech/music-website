@@ -4,6 +4,10 @@
   margin-left: 7px;
 }
 
+.sidebar {
+  height: 100%;
+}
+
 .sidebar-sticky h6 {
   margin-top: 3rem;
 }
@@ -32,6 +36,9 @@
     display: flex;
     justify-content: space-between;
     margin: 10px 10px;
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
 
 .icon-span svg {

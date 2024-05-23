@@ -5,7 +5,7 @@ import {Link } from 'react-router-dom'
 
 const Sidebar = () => {
   return (
-    <div className="bg-light pt-5 px-3 m-auto">
+    <div className="bg-light pt-5 px-3 sidebar">
       <div className="sidebar-sticky">
         <div className="home">
           <div>

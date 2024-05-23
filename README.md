@@ -2,6 +2,8 @@
 
 This repository contains a small media home card component built using React, Bootstrap, and CSS. The card is designed to display media content in a visually appealing and responsive manner. It utilizes React for component-based architecture, Bootstrap for layout and styling, and CSS for custom styling and animations.
 
+![music_website](https://github.com/realmintech/music-website/assets/106162296/2622211f-0911-4fe6-ad4c-2f2b9b47e475)
+
 ## Features
 
 - **Responsive design for various screen sizes**
